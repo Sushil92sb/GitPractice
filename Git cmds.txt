@@ -3,3 +3,9 @@ git config --global user.name "sushil92sb"
 git config --global user.email "sushil92sb@gmail.com"
 
 git config --list
+
+git status
+
+git add.
+
+got commit -m "first commit"
